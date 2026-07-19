@@ -4,3 +4,4 @@ duckduckgo-search>=4.4.1
 openai>=1.10.0
 python-dotenv>=1.0.1
 sentence-transformers>=2.3.0
+google-generativeai>=0.1.0
